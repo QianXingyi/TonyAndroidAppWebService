@@ -1,0 +1,8 @@
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\WebServiceDB\WebServiceDB\bin\WebServiceDB.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\WebServiceDB\WebServiceDB\bin\WebServiceDB.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\WebServiceDB\WebServiceDB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\WebServiceDB\WebServiceDB\obj\Debug\WebServiceDB.dll
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\WebServiceDB\WebServiceDB\obj\Debug\WebServiceDB.pdb
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\WebServiceDB\WebServiceDB\obj\Debug\WebServiceDB.Properties.Resources.resources
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\WebServiceDB\WebServiceDB\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tony\Documents\Visual Studio 2010\Projects\WebServiceDB\WebServiceDB\obj\Debug\ResGen.write.1.tlog
